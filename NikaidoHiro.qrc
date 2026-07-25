@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GIF/stand/1.gif</file>
+        <file>Sound/music/1.wav</file>
+        <file>Sound/music/2.wav</file>
+        <file>GIF/sleep/1.gif</file>
+        <file>Sound/voice/plan.wav</file>
+        <file>GIF/_stand/1.gif</file>
+        <file>Sound/voice/Ema.wav</file>
+        <file>Sound/voice/wait me.wav</file>
+        <file>GIF/head/1.gif</file>
+        <file>GIF/head/2.gif</file>
+        <file>GIF/head/3.gif</file>
+        <file>GIF/_head/1.gif</file>
+        <file>GIF/_head/2.gif</file>
+        <file>GIF/_head/3.gif</file>
+        <file>GIF/special/1.gif</file>
+        <file>Sound/voice/no.wav</file>
+        <file>Sound/voice/I'll control all of you.wav</file>
+        <file>Sound/voice/that's false.wav</file>
+        <file>Sound/voice/you're not correct.wav</file>
+        <file>Sound/voice/that's wrong.wav</file>
+        <file>GIF/special/2.gif</file>
+        <file>GIF/yawn/1.gif</file>
+        <file>Sound/voice/Are you listening.wav</file>
+        <file>Sound/voice/yawn.wav</file>
+    </qresource>
+</RCC>
